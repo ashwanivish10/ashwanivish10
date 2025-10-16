@@ -1,7 +1,7 @@
 # Hi there, I'm Ashwani Vishwakarma 👋
 
 <p align="center">
-  <img src="[YOUR_BANNER_IMAGE_URL](https://www.canva.com/design/DAG19Z6K1UA/lneQFIl41SeIIYoA-7yA6w/edit?utm_content=DAG19Z6K1UA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="Ashwani's GitHub Banner">
+  <img src="(https://www.canva.com/design/DAG19Z6K1UA/lneQFIl41SeIIYoA-7yA6w/edit?utm_content=DAG19Z6K1UA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="Ashwani's GitHub Banner">
 </p>
 
 I'm a final-year B.Tech student who loves building amazing things for the web. My secret sauce? I leverage the power of Artificial Intelligence to bring my ideas to life, from brainstorming and coding to debugging. I believe in working smart, and AI is my ultimate co-pilot!
