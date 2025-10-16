@@ -38,3 +38,9 @@ I'm a final-year B.Tech student who loves building amazing things for the web. M
   <img src="https://github-readme-stats.vercel.app/api?username=ashwanivish10&show_icons=true&theme=radical" alt="Ashwani's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanivish10&layout=compact&theme=radical" alt="Top Languages">
 </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashwanivish10" alt="ashwanivish10" />
+  </a>
+</p>
